@@ -9,21 +9,14 @@ MongoDb é um projeto focado em praticar a utilização de queries do MongoDB ut
 
 <strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
 
-<!-- 
-
 ## Técnologias usadas
 * JavaScript;
-* Node.js;
-* Express.js;
-* Sequelize.js;
 * Docker;
-* MySQL;
-* DotEnv;
-* Jest;
-* Mock;
-* Sinon;
-* Chai;
-* Chai-http.
+* MongoDB;
+* EsLint.
+
+<!-- 
+
 
 ## Rotas, entradas e saídas
 
