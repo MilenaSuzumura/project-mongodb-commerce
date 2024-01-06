@@ -1,10 +1,15 @@
-# MongoDB Commerce
+# 🍔 MongoDB Commerce 🍔
 
-<!-- 
+MongoDb é um projeto focado em praticar a utilização de queries do MongoDB utilizando o cardápio do McDonald's(ingredientes, valores nutricionais e dados fictícios de vendas).
 
-Store Manager é um projeto focado em arquitetar e desenvolver uma API de gerenciamento de vendas com um banco de dados MySQL, utilizando a arquitetura em camadas(MSC/Model, Service, Controller).
+#### Este projeto está dividido em três níveis. Cada um deles trabalhará habilidades diferentes. Esses níveis são:
+* Alterar documentos utilizando métodos de update com operadores simples;
+* Alterar documentos utilizando operadores complexos e modificadores;
+* Construir queries e expressões complexas utilizando índices textuais e expressões regulares.
 
 <strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
+
+<!-- 
 
 ## Técnologias usadas
 * JavaScript;
