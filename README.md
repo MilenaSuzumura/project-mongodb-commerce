@@ -1,13 +1,23 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# 🍔 MongoDB Commerce 🍔
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+MongoDb é um projeto focado em praticar a utilização de queries do MongoDB utilizando o cardápio do McDonald's(ingredientes, valores nutricionais e dados fictícios de vendas).
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+#### Este projeto está dividido em três níveis. Cada um deles trabalhará habilidades diferentes. Esses níveis são:
+* Alterar documentos utilizando métodos de update com operadores simples;
+* Alterar documentos utilizando operadores complexos e modificadores;
+* Construir queries e expressões complexas utilizando índices textuais e expressões regulares.
+
+<strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
+
+## Técnologias usadas
+* MongoDB;
+* Docker;
+* Docker Compose;
+* EsLint.
+
+## Exércicios
+
+<img alt="imagem-requisitos-do-projeto" src="/requisitos.jpg">
+
+## Utilizando o docker
+Para criar os containers, execute: `docker-compose up -d`
