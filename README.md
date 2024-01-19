@@ -9,12 +9,15 @@ MongoDb é um projeto focado em praticar a utilização de queries do MongoDB ut
 
 <strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
 
-<strong>OBS2:</strong> NECESSITA TER O MONGODB INSTALADO.
-
 ## Técnologias usadas
 * MongoDB;
+* Docker;
+* Docker Compose;
 * EsLint.
 
 ## Exércicios
 
 <img alt="imagem-requisitos-do-projeto" src="/requisitos.jpg">
+
+## Utilizando o docker
+Para criar os containers, execute: `docker-compose up -d`
